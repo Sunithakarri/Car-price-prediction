@@ -11,7 +11,7 @@ This project predicts car prices based on various features using machine learnin
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/car-price-prediction.git
+   git clone https://github.com/Sunithakarri/Car-price-prediction.git
    cd car-price-prediction
 
 
