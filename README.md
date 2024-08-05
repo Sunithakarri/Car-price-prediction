@@ -46,10 +46,6 @@ This project predicts car prices based on various features using machine learnin
 - `evaluate_model.py`: Script for evaluating the model.
 - `predict.py`: Script for making predictions.
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Acknowledgments
 
 Thanks to the open-source community for the tools and libraries used in this project.
